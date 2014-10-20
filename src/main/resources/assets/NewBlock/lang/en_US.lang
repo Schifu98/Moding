@@ -1,0 +1,13 @@
+# Keys
+keys.examplemod.category=ExampleMod
+keys.examplemod.charge=Charge
+keys.examplemod.release=Release
+
+# Creative Tabs
+itemGroup.examplemod=ExampleMod
+
+# Items
+item.examplemod:mapleLeaf.name=Maple Leaf of Awesomeness
+
+#Blocks
+tile.examplemod:flag.name=Canadian Flag of Awesomeness

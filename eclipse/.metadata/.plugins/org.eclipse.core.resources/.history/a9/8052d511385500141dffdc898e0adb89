@@ -1,0 +1,11 @@
+package com.example.examplemod.block;
+
+public class BlockFlag extends BlockNB
+{
+	public BlockFlag()
+	{
+		super();
+		this.setBlockName("flag");
+		this.setHarvestLevel("pickaxe", 0);
+	}
+}

@@ -1,0 +1,19 @@
+package com.example.examplemod.init;
+
+import net.minecraft.item.Item;
+
+import com.example.examplemod.item.ItemMapleLeaf;
+import com.example.examplemod.item.ItemNB;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
+public class ModItems 
+{
+	public static final ItemNB mapleLeaf = new ItemMapleLeaf();
+	protected static final Item Coin = null;
+
+	public static void init()
+	{
+		GameRegistry.registerItem(mapleLeaf, "mapleLeaf");
+	}
+}

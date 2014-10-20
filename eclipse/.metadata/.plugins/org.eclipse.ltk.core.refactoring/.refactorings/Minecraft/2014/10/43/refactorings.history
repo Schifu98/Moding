@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Minecraft/src/main/java/com/example/examplemod/item/Copy of ItemMapleLeaf.java&apos; to &apos;ItemCoin&apos;" description="Rename resource &apos;Copy of ItemMapleLeaf.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example/examplemod/item/Copy of ItemMapleLeaf.java" name="ItemCoin" stamp="1413802573434" updateReferences="true"/>
+</session>
